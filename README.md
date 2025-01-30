@@ -6,4 +6,4 @@ What I find interesting about this article is how it explains that the hardest p
 
 I also found the comparison between chess and self-driving cars really interesting. The author explains that chess is easier for AI because it has clear rules and limited possibilities, but driving is much harder since there are endless situations and decisions to make. They connect this to software development, saying that writing code is straightforward when you know exactly what you want, but figuring out what you need—especially as things change—is where AI struggles. It’s a good reminder that while AI is helpful, it can’t replace the human side of problem-solving and creativity.
 
-
+- Ava August: The insights in this article show the complexities and challenges in software development, particularly around the critical role of defining clear and stable requirements. It's intriguing how it draws parallels between programming and fields like chess and self-driving technology, underlining the differences in problem-solving environments. I really enjoyed reading!
